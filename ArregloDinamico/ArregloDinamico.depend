@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1207451669 source:d:\documentos\cursos\pbasica\arreglodinamico\src\arreglocaracteres.cpp
+	"ArregloCaracteres.h"
+	<stdio.h>
+
+1207449371 d:\documentos\cursos\pbasica\arreglodinamico\include\arreglocaracteres.h
+
+1207451177 source:d:\documentos\cursos\pbasica\arreglodinamico\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ArregloCaracteres.h>
+
+1209131567 source:d:\desarrollos\cursos\arreglodinamico\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ArregloCaracteres.h>
+
+1209131902 d:\desarrollos\cursos\arreglodinamico\include\arreglocaracteres.h
+
+1209131480 source:d:\desarrollos\cursos\arreglodinamico\src\arreglocaracteres.cpp
+	"ArregloCaracteres.h"
+	<stdio.h>
+

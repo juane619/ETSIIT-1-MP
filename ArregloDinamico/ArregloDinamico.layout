@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\ArregloCaracteres.h" open="1" top="0" tabpos="2">
+		<Cursor position="8026" topLine="266" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="3">
+		<Cursor position="1387" topLine="40" />
+	</File>
+	<File name="src\ArregloCaracteres.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="12199" topLine="539" />
+	</File>
+</CodeBlocks_layout_file>
